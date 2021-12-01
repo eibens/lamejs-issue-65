@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "parcel build index.html --public-url ./ && http-server dist"
+  },
+  "dependencies": {
+    "http-server": "^14.0.0",
+    "lamejs": "^1.2.0",
+    "parcel": "^2.0.1"
+  }
+}
