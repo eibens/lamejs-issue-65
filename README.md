@@ -1,5 +1,7 @@
 # lamejs issue #65
 
+**NOTE: This issue has since been resolved and this repository has been archived.**
+
 This repository was created in response to [issue #65 of lamejs](https://github.com/zhuker/lamejs/issues/65). It contains a minimal project that can be used to reproduce the issue. 
 
 ## Relevant Files
